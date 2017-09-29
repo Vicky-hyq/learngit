@@ -12,7 +12,13 @@ this is a test.
 
 go ahead~
 
+<<<<<<< HEAD
 6666
 
 
 777
+=======
+for a test-stash
+
+where is the dream?
+>>>>>>> a365e4254c4f21359bd929120c2362b87be01446
